@@ -1,25 +1,31 @@
 # HW6 Resume Site
 
-This is my HW6 resume site. I made it about my VRChat creator and texture art work, including Pound Industries. It uses HTML, my CSS file, and two Google Fonts: Montserrat and Source Sans 3.
+HW6 Resume Site
 
-## Open it
-1. Extract the ZIP file.
-2. Open the `comp484-hw6-main` folder in VS Code.
-3. Open `index.html` in a browser, or use Live Server if you have it installed.
+This is my resume website for HW6. I added my VRChat creator and texture artist work, plus Pound Industries.
 
-## Before submitting
-- The `dwight.jpeg` picture came with the starter files, so change it to a picture you want to use or update the image path in `index.html`.
-- Replace `email@example.com` with the email address you want to share.
-- Change the GitHub link to your own profile before submitting.
-- Check the school and project descriptions and change anything that doesn't match your experience.
+About My Site
 
-## Upload with GitHub Desktop
-1. Extract this ZIP first. Do not upload the ZIP file itself to your repository.
-2. Open GitHub Desktop and choose **File → Add Local Repository**.
-3. Select the extracted `comp484-hw6-main` folder. If it says it is not a repository, choose the option to create a repository from that folder.
-4. If creating a repository, use a name like `comp484-hw6-resume-site`.
-5. In the Changes tab, enter `Finish HW6 resume site and creative portfolio` in the summary box and click **Commit to main**.
-6. Click **Publish repository** to upload it to GitHub.
-7. To deploy it, open the repository on GitHub and go to **Settings → Pages**.
-8. Under Build and deployment, choose **Deploy from a branch**, select `main` and `/(root)`, then click **Save**.
-9. Wait for GitHub Pages to publish, then open the URL shown in the Pages section and check that the page and image load.
+I make VRChat assets and work on textures for avatars. I also made Pound Industries, where I share and sell digital VRChat assets.
+
+The website has a black background with cyan text and borders.
+
+What I Used
+
+HTML for the website pages
+
+CSS for the colors, layout, and fonts
+
+Google Fonts: Montserrat and Source Sans 3
+
+Images for the website
+
+VS Code to work on the files
+
+Files
+
+index.html - Main page
+
+css/styles.css - Website styling
+
+images/ - Images used on the site
