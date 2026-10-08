@@ -1,4 +1,4 @@
-# HW6 Resume Site
+# HW6 Resume Site   https://jakibugarin517-dev.github.io/comp-484-hw6/
 
 HW6 Resume Site
 
